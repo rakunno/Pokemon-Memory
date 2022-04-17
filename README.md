@@ -1,6 +1,6 @@
 <h1 align='center'>Pokemon Memory</h1>
 <p align='center'>Este projeto é um jogo da memória com contagem de jogadas feitas e tempo todal de jogo.</p>
-<p><a href='https://rakunnotodolist.netlify.app/'>Clique aqui para ver a aplicação funcionando</a></p>
+<p><a href='david-pokemon-memory.com'>Clique aqui para ver a aplicação funcionando</a></p>
 
 <p align='center'>
 <a href='#pré-requisito'>Pré Requisitos</a> |
